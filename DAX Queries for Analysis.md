@@ -23,3 +23,4 @@
   Revenue Leader - last quarter = 
   CALCULATE( [Total Sales Amount], PREVIOUSQUARTER('Calendar 1'[date]))
   ```
+<img width="1243" height="447" alt="Capture1" src="https://github.com/user-attachments/assets/594550a3-467e-4dcf-aa39-5f9272a3e95f" />
