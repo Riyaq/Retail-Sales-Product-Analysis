@@ -18,4 +18,8 @@
   )
   
   ```
-     
+  
+  ```
+  Revenue Leader - last quarter = 
+  CALCULATE( [Total Sales Amount], PREVIOUSQUARTER('Calendar 1'[date]))
+  ```
