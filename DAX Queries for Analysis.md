@@ -43,6 +43,7 @@ DISTINCTCOUNT(Transactions[Transaction_date])
 <img width="671" height="352" alt="Captureu" src="https://github.com/user-attachments/assets/fbca368a-1808-4b3f-9a31-fbe922425719" />
 <br>
 **Gender-Based Purchasing Behavior**
+<br>
 Bar Chart: <br>
 X-axis: Customers[Gender]
 Y-axis: [Total Sales]
