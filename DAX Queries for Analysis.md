@@ -52,7 +52,9 @@ Tooltip: [Average Order Value], [Purchase Frequency]
 Donut Chart: <br>
 Values: [Total Sales]
 Legend: Customers[Gender]
+<br>
 **Marital Status Analysis**
+<br>
 Clustered Column Chart:
 X-axis: Customers[Marital_Status]
 Y-axis: [Total Sales]
