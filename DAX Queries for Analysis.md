@@ -62,6 +62,7 @@ X-axis: Customers[Marital_Status]
 Y-axis: [Total Sales]
 Legend: Customers[Gender]
 Tooltip: [Average Order Value], [Purchase Frequency]
+<br>
 Table / Matrix:
 Rows: Customers[Marital_Status]
 Columns: Customers[Gender]
