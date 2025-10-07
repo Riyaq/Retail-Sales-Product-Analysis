@@ -3,7 +3,7 @@
 
 # Power BI Dashboards:
 
-### Top-Selling Products – Last Quarter : What are the top-selling products by quantity or revenue in the last quarter?
+### 1. Top-Selling Products – Last Quarter : What are the top-selling products by quantity or revenue in the last quarter?
 - Cluster Column Chart: X axis- Product_name, Product_id | Y axis- Measure | Filter TOPN
   ```
   Top Products by Units Sold(Quantity Leaders – Last Quarter) =
@@ -25,7 +25,7 @@
   ```
 <img width="1243" height="447" alt="Capture1" src="https://github.com/user-attachments/assets/594550a3-467e-4dcf-aa39-5f9272a3e95f" />
 
-### How does purchasing behavior vary by gender, marital status, and income level?
+### 2. How does purchasing behavior vary by gender, marital status, and income level?
 - The company wants to know which customer segments (by gender, marital status, or yearly income) contribute most to sales
 ```
 Total Sales =
